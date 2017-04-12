@@ -10,7 +10,7 @@
     <PackageProjectUrl>https://github.com/kentcb/Genesis.AsyncInitializationGuard</PackageProjectUrl>
     <PackageIconUrl>https://raw.githubusercontent.com/kentcb/Genesis.AsyncInitializationGuard/master/Art/Logo64x64.png</PackageIconUrl>
     <RepositoryUrl>https://github.com/kentcb/Genesis.AsyncInitializationGuard</RepositoryUrl>
-    <PackageTags>.NET mono portable pcl ios android xamarin helper rx</PackageTags>
+    <PackageTags>.NET mono portable netstandard ios android xamarin helper rx</PackageTags>
     <Description>Genesis.AsyncInitializationGuard provides an InitializationGuard class, which facilitates thread-safe asynchronous initialization.</Description>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
   </PropertyGroup>
@@ -22,5 +22,4 @@
   <ItemGroup>
     <PackageReference Include="System.Reactive" Version="3.0.0" />
   </ItemGroup>
-
 </Project>
