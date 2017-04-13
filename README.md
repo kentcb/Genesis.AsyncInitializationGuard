@@ -8,14 +8,7 @@
 
 > All Genesis.* projects are formalizations of small pieces of functionality I find myself copying from project to project. Some are small to the point of triviality, but are time-savers nonetheless. They have a particular focus on performance with respect to mobile development, but are certainly applicable outside this domain.
  
-**Genesis.AsyncInitializationGuard** provides an `InitializationGuard` class that facilitates asynchronous, thread-safe initialization. It is delivered as a PCL targeting a wide range of platforms, including:
-
-* .NET 4.5
-* Windows 8
-* Windows Store
-* Windows Phone 8
-* Xamarin iOS
-* Xamarin Android
+**Genesis.AsyncInitializationGuard** provides an `InitializationGuard` class that facilitates asynchronous, thread-safe initialization. It is delivered as a netstandard 1.0 binary.
 
 ## Why?
 
